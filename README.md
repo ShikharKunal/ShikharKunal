@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Shikhar-Kunal Verma! 🌟
 
-![Profile Banner](https://via.placeholder.com/1000x300.png?text=Welcome+to+Shikhar's+Profile)
+![Profile Banner](127631968.png)
 
 ## 🚀 About Me
 
